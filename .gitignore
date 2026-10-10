@@ -1,0 +1,10 @@
+# Generated data - not for submission
+reviews_*.csv
+pulse_snapshots/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build scripts
+build_pdf.py
